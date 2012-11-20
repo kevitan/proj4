@@ -1,4 +1,6 @@
 /*
+   Project 4: Go285
+   @author Shannon Pawloski, Kevin Tan, David Rushdoony, Michael Noonan
     BoardClass.java
     Implements the actual board.
 */
