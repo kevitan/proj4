@@ -15,7 +15,7 @@ public class BoardClass {
         board = new PointClass[19][19];
         for(int i = 0; i < 19; i ++) {
             for(int j = 0; j < 19; j++) {
-                board[j][i] = new PointClass();
+                board[j][i] = new PointClass(i, j);
             }
         }
     }
