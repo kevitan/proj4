@@ -6,7 +6,7 @@
     Implements the actual board.
 */
 
-package eecs285.proj4;
+package eecs285.proj4.Go285;
 
 public class BoardClass {
     public PointClass board[][];
