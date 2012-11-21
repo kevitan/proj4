@@ -1,7 +1,4 @@
-package eecs285.proj4;
-import javax.swing.*;
-import java.awt.*;
-
+package eecs285.proj4.Go285;
 /*
 	Project 4: Go285
 	@author Shannon Pawloski, Kevin Tan, David Rushdoony, Michael Noonan
@@ -10,6 +7,8 @@ import java.awt.*;
 	Implements the game window with which the user interacts
 */
 
+import javax.swing.*;
+import java.awt.*;
 public class GameWindow extends JFrame
 {
 	JPanel controlPanel;

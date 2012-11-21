@@ -1,4 +1,4 @@
-package eecs285.proj4;
+package eecs285.proj4.Go285;
 
 /*
 	Project 4: Go285

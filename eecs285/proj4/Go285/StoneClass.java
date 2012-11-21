@@ -3,7 +3,7 @@
     Implements a stone, which is a playing piece on the board.
 */
 
-package eecs285.proj4;
+package eecs285.proj4.Go285;
 
 public class StoneClass {
     private int x;

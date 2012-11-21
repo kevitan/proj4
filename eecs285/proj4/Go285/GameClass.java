@@ -4,7 +4,7 @@
     to run the game.
 */
 
-package eecs285.proj4;
+package eecs285.proj4.Go285;
 
 public class GameClass {
     private PlayerClass player1;

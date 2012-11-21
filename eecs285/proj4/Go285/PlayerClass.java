@@ -3,7 +3,7 @@
     Implements the player class.
 */
 
-package eecs285.proj4;
+package eecs285.proj4.Go285;
 
 import java.util.Vector;
 

@@ -5,7 +5,7 @@
     Implements a single point on the Go board.
 */
 
-package eecs285.proj4;
+package eecs285.proj4.Go285;
 
 import java.awt.geom.*;
 
