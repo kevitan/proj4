@@ -2,6 +2,8 @@
     FormationClass.java
     Implements a formation, which is a collection of adjacent stones of the 
     same color.
+    @Author Michael Noonan, Shannon Pawloski, David Rushdoony, Kevin Tan
+    @Date November 20, 2012
 */
 
 package eecs285.proj4.Go285;

@@ -1,7 +1,8 @@
 /*
     GameClass.java
     Implements the game, which contains all of the necessary componenets
-    to run the game.
+    to run the game.@Author Michael Noonan, Shannon Pawloski, David Rushdoony, Kevin Tan
+    @Date November 20, 2012
 */
 
 package eecs285.proj4.Go285;
