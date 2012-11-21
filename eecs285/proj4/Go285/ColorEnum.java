@@ -4,7 +4,7 @@
     Implements an enum for color, which is an attribute of stones and spaces.
 */
 
-package eecs285.proj4;
+package eecs285.proj4.Go285;
 
 public enum ColorEnum {
 	BLACK, WHITE, NONE
